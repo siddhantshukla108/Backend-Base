@@ -45,8 +45,6 @@ To contribute:
 4. 📝 After reviewing your repo, we’ll **add your repo link in this README** under contributors.  
 
 ---
----
-
 ## 📞 Contact Me
 
 📧 **Email:** shuklasiddhant365@gmail.com  
