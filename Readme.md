@@ -45,3 +45,17 @@ To contribute:
 4. 📝 After reviewing your repo, we’ll **add your repo link in this README** under contributors.  
 
 ---
+---
+
+## 📞 Contact Me
+
+📧 **Email:** shuklasiddhant365@gmail.com  
+💼 **LinkedIn:** [siddhant-shukla108](https://www.linkedin.com/in/siddhant-shukla108/) <br/>
+🐦 **Twitter:** [siddhant_shuk1a](https://x.com/siddhant_shuk1a)  
+🌍 **Portfolio:** [siddhantshukla-portfolio](https://siddhantshukla-portfolio.netlify.app/)
+
+---
+
+> ⭐ Don’t forget to star the repo if you like it!  
+> 🤝 Contributions, issues, and suggestions are welcome!
+
